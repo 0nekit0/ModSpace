@@ -1,0 +1,17 @@
+filename = 'journeymap-neoforge-26.2-6.0.8.jar'
+name = 'JourneyMap'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.2-6.0.8+neoforge'
+
+[download]
+hash = '36268bb9ab1406a590858dd519309c7b4554fe7478b6925b0c4a190bdf3a5f81a3c50defc802c37c1893e27ba05727f8e77cb6e933e5d627f5b843fe8a96010d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/BvreZ8yd/journeymap-neoforge-26.2-6.0.8.jar'
+
+[update.modrinth]
+mod-id = 'lfHFW1mp'
+version = 'BvreZ8yd'

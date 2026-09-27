@@ -1,0 +1,17 @@
+filename = 'sparsestructures-neoforge-26.2-3.1.4.jar'
+name = 'Sparse Structures'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.4'
+
+[download]
+hash = 'ec29f5d8af27ca11509ababcae8053a524ae0c7b5091a5e8218cc82c112b5652f12ad696b5df198c0c4def541483849f8cacc2df5e3e741dc383581883d879f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qwvI41y9/versions/cMNNWIxM/sparsestructures-neoforge-26.2-3.1.4.jar'
+
+[update.modrinth]
+mod-id = 'qwvI41y9'
+version = 'cMNNWIxM'

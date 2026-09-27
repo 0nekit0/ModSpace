@@ -1,0 +1,17 @@
+filename = 'Jade-mc26.2-NeoForge-26.2.10.jar'
+name = 'Jade 🔍'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.2.10+neoforge'
+
+[download]
+hash = '23c4ce0e0aec0d70b38ba5c8a346e5233aaa3923a94f54dc1b412e48ef98d394d3a1ac3ceaa9fe674dc1653bbef489a228be167f011d163db7ae6e4a947051b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/GBES6etT/Jade-mc26.2-NeoForge-26.2.10.jar'
+
+[update.modrinth]
+mod-id = 'nvQzSEkH'
+version = 'GBES6etT'

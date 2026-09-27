@@ -1,0 +1,17 @@
+filename = 'sodium-neoforge-0.9.2+mc26.2.jar'
+name = 'Sodium'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '26.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mc26.2-0.9.2-neoforge'
+
+[download]
+hash = '15fb941bd58abe3e57b53eb91f070f00e9a5178c718d50cbae588986e4cd8349c5a2ef4f6c84cc4887320d85ec561aa2094214723f502fddd3aeb493c80b5c39'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AANobbMI/versions/DmnNKsfS/sodium-neoforge-0.9.2%2Bmc26.2.jar'
+
+[update.modrinth]
+mod-id = 'AANobbMI'
+version = 'DmnNKsfS'
